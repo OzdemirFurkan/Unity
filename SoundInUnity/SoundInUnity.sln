@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundInUnity", "SoundInUnity.csproj", "{F8D82050-16CF-9617-5671-D12DE26985BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundInUnity.Editor", "SoundInUnity.Editor.csproj", "{A15CE5AA-57D1-2F1A-C319-040379B4FE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D82050-16CF-9617-5671-D12DE26985BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D82050-16CF-9617-5671-D12DE26985BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D82050-16CF-9617-5671-D12DE26985BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D82050-16CF-9617-5671-D12DE26985BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15CE5AA-57D1-2F1A-C319-040379B4FE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CE5AA-57D1-2F1A-C319-040379B4FE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CE5AA-57D1-2F1A-C319-040379B4FE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CE5AA-57D1-2F1A-C319-040379B4FE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
